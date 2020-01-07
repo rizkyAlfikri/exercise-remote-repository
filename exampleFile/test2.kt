@@ -8,4 +8,6 @@ fun test(){
 
     val jos = 1234
 
+    val afacds = 2234
+
 }
