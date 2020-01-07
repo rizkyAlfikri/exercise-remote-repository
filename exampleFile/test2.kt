@@ -6,4 +6,6 @@ fun test(){
         println(i)
     }
 
+    val jos = 1234
+
 }
