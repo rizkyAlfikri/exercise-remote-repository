@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 abstract class Savior(){
     abstract var str: Int
     abstract var wiz: Int
@@ -24,5 +24,5 @@ class Swordman : Savior {
 fun main(){
 
     val teste: Boolean = true
->>>>>>> development1.0
+
 }
