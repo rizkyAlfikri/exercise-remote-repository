@@ -10,4 +10,6 @@ fun test(){
 
     val afacds = 2234
 
+    var makeSure: Boolean = false
+
 }
