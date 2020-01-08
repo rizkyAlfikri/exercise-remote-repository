@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 abstract class Savior(){
     abstract var str: Int
     abstract var wiz: Int
@@ -19,4 +20,9 @@ class Swordman : Savior {
     override var dex: Int
         get() = println(def)
         set(value) {value = 3}
+=======
+fun main(){
+
+    val teste: Boolean = true
+>>>>>>> development1.0
 }
